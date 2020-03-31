@@ -1049,6 +1049,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
 * [godist](https://github.com/e-dard/godist) - Various probability distributions, and associated methods.
 * [goga](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
+* [gold](https://github.com/aunum/gold) - Reinforcement learning library for Go.
 * [GoLearn](https://github.com/sjwhitworth/golearn) - General Machine Learning library for Go.
 * [golinear](https://github.com/danieldk/golinear) - liblinear bindings for Go.
 * [GoMind](https://github.com/surenderthakran/gomind) - A simplistic Neural Network Library in Go.
